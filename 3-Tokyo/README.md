@@ -29,8 +29,14 @@ The submission deadline is subject to the timetable of the divisions, and you ma
 The contents to be delivered in the competition include:
 
 - **Code link (required; the original code is stored in your personal GitHub repository and is not required for submission)** ;
+- https://github.com/eyepyon/96z
+- 
 - **PowerPoint demo (required);**
+  96zTokyo202303.pdf
+- 
 - **DEMO link or link to the project introduction video (optional; the video should be uploaded to video platforms like YouTube and may not exceed 5 minutes)** ;
 - **Any other support materials** .
+  https://youtu.be/MpUcGtZg858
 
 *Note: If you don't wish to publicly disclose your PowerPoint presentation, you may also send the files to our official mailbox.*
+
